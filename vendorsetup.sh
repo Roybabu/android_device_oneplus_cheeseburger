@@ -1,0 +1,3 @@
+add_lunch_combo aosp_cheeseburger-userdebug
+add_lunch_combo aosp_cheeseburger-user
+add_lunch_combo aosp_cheeseburger-eng
